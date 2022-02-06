@@ -131,6 +131,7 @@ h3 {
 
 .technologies-card{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     margin-bottom: 1rem;
     gap: 1rem;
